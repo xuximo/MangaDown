@@ -16,5 +16,7 @@
 
 ## 💬使用风险💬 
 阿姨会封号吗？理论上应该不会，因为这个脚本是模拟用户操作的，没有直接从服务器请求数据，本人亲测下载了几部（一小时差不多150话）
+<img width="2723" height="1560" alt="image" src="https://github.com/user-attachments/assets/0e215e45-59d5-4132-bc78-5d0d5e23429a" />
+<img width="2723" height="1560" alt="image" src="https://github.com/user-attachments/assets/1a12509a-9bfd-4bbc-ad92-d0cb7f7f0331" />
 ## 📝免责声明📝 
 ## 供学习交流使用，请不要拿它来盗版漫画
