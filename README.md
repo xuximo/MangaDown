@@ -1,7 +1,7 @@
 # b漫下载
 ## 🍻安装说明🍻
-  ▪️ chrome或edge游览器先安装TamperMonkey/篡改猴\
-  ▪️ 下载安装本页面js脚本
+  ▪️ chrome或edge游览器先安装[篡改猴](https://www.tampermonkey.net/)（TamperMonkey）\
+  ▪️ 下载安装本页面js脚本[Releases](https://github.com/xuximo/MangaDown/releases)
 ## ✨使用说明✨
   ▪️ 在开始下载之前请：打开浏览器设置 => 找到“下载”相关选项 => 关闭“总是询问保存至何处”（意思相近的选项）并选择一个要保存的路径\
   ▪️ 将在漫画网页端内打开阅读设置，将“阅读模式”设置为“上下滚动”\
